@@ -7,3 +7,5 @@ read a book
 sleep
 Throw the bins
 make some thing
+Make Something
+Master Python!!!
