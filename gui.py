@@ -1,6 +1,11 @@
 import functions
 import PySimpleGUI as sg
 import time
+import os
+
+if not os.path.exists("toDos.txt"):
+    with open("toDos.txt", "w") as file:
+        pass
 
 sg.theme("DarkBlack")
 
