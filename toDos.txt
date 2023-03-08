@@ -1,3 +1,5 @@
-Master python!
+Master python
 Make something different
-Hello
+Make a cake
+Let's try again
+Let me save some task in the txt file
